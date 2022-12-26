@@ -63,3 +63,6 @@ li {
     object-fit: cover;
   }
 }
+li:hover {
+  background-color: #ffffff70;
+}
