@@ -43,6 +43,9 @@ li {
   border-radius: 24px;
   background-color: #ffffff50;
 }
+li:hover {
+  background-color: #ffffff70;
+}
 .icon {
   vertical-align: middle;
   margin-right: auto;
@@ -63,6 +66,4 @@ li {
     object-fit: cover;
   }
 }
-li:hover {
-  background-color: #ffffff70;
-}
+
